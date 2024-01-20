@@ -1,4 +1,4 @@
-import React from '../../../02_counter/node_modules/@types/react';
+import React from 'react';
 
 function Card({name,btnText}){
   // console.log("pops",props);
